@@ -2,6 +2,7 @@ public class Item {
   private String name;
   private Long id;
   private String emailAddress;
+  private BigDecimal price;
   
   public Item() {
   }
